@@ -1,6 +1,6 @@
-# All blobs below are extracted from peridot V816.0.7.0.UNPMIXM - miui_PERIDOTGlobal_OS1.0.7.0.UNPMIXM
+# All blobs below are extracted from sky OS2.0.9.0.VMWMIXM
 
-product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Aperture,Camera,Camera2,GoogleCameraGo|1b147c39570b065743f926d45c1439ce8bb19911
+product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Aperture,Camera,Camera2,GoogleCameraGo|28895b08854dd5c779d16fd2c9b0b7098ae20002
 system/lib64/libgui.so:system/lib64/libgui-xiaomi.so
 system_ext/lib64/libcamera_algoup_jni.xiaomi.so:system/lib64/libcamera_algoup_jni.xiaomi.so|9b2b5dabfdf09c1a572257c6e780e4f1b00a3732
 system_ext/lib64/libcamera_mianode_jni.xiaomi.so:system/lib64/libcamera_mianode_jni.xiaomi.so
